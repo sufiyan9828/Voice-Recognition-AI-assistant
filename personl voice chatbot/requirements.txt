@@ -1,0 +1,7 @@
+SpeechRecognition
+pyttsx3
+wikipedia
+pyaudio
+customtkinter
+packaging
+Pillow
